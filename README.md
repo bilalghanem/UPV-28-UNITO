@@ -10,8 +10,6 @@ Requirements
     nltk
     VADER
 
-Usage
-
 Download the dataset on the SemEval-2017 website (https://competitions.codalab.org/competitions/19938#participate-get-data).
 Run the program by executing main class.
 
