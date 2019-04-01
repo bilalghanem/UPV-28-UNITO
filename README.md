@@ -12,7 +12,6 @@ Requirements
 
 Usage
 
-    Download the dataset on the SemEval-2017 website (http://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools).
-    
-    Run the program by executing main class.
+Download the dataset on the SemEval-2017 website (https://competitions.codalab.org/competitions/19938#participate-get-data).
+Run the program by executing main class.
 
