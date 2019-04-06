@@ -11,6 +11,7 @@ REQUIREMENTS:
 - textblob
 - tqdm
 - numpy
+- gensim
 
 USAGE:
-    python main.py
+> python main.py
